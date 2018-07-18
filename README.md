@@ -50,7 +50,7 @@ git clone https://github.com/amaechi-chuks/global-accelerex-interns-challenge.gi
 ## Folder Structure
 
 ```
-global-accelerex-interns-challenge/
+Global-Accelerex-Internship-Challenge/
 index.html
 index.css
 main.js
