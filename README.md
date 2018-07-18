@@ -31,7 +31,7 @@ This is a REST API challenge that will contritube to a great career as `Global A
 
 ### Screen Shot
 
-![alt](/Screen_20.png)
+![alt](/screenshot.JPG)
 
 
 ## Installing
