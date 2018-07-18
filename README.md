@@ -14,7 +14,6 @@ Front End Challenge
  * [License](#license)
  * [Author](#author)
  * [Acknowledgments](#acknowledgments)
- * [Live Demo](#live-demo)
 
 ## Introduction
 
