@@ -44,18 +44,20 @@ If you don't have **NodeJS** installed go to the [NodeJS Website](http://nodejs.
 To install this app
 
 ```
-git clone https://github.com/amaechi-chuks/global-accelerex-interns-challenge.git
+git clone https://github.com/jbassuquo4/Global-Accelerex-Internship-Challenge.git
 ```
 
 ## Folder Structure
 
 ```
 Global-Accelerex-Internship-Challenge/
+Asuquo_Jeremiah/
+crown.png
 index.html
-index.css
 main.js
+style.css
 README.md
-screenshot.png
+screenshot.JPG
 ```
 
 
